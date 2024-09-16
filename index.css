@@ -78,4 +78,99 @@
     .hero h1 {
       font-size: 2.5rem;
     }
+    /* About Me Section */
+.about-me {
+    background-color: #fff;
+    padding: 50px 0;
+  }
+  
+  .about-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .about-text {
+    max-width: 60%;
+  }
+  
+  .about-photo img {
+    width: 300px;
+    border-radius: 50%;
+    border: 5px solid #007bff;
+  }
+  
+  /* Skills Section */
+  .skills {
+    background-color: #f0f4f8;
+    padding: 50px 0;
+  }
+  
+  .skills-grid {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .skill-category h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .skill-category ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .skill-category li {
+    margin-bottom: 10px;
+  }
+  
+  /* Career Journey Section */
+  .career-journey {
+    background-color: #fff;
+    padding: 50px 0;
+  }
+  
+  .timeline-item {
+    margin-bottom: 20px;
+  }
+  
+  .timeline-item h4 {
+    font-size: 1.25rem;
+    margin-bottom: 5px;
+  }
+  
+  .timeline-item span {
+    color: #888;
+    font-size: 0.9rem;
+  }
+  
+  .timeline-item p {
+    margin-top: 5px;
+  }
+  
+  /* Call to Action Section */
+  .cta {
+    background-color: #007bff;
+    text-align: center;
+    padding: 30px 0;
+  }
+  
+  .cta-btn {
+    display: inline-block;
+    background-color: #fff;
+    color: #007bff;
+    padding: 10px 20px;
+    margin: 10px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cta-btn:hover {
+    background-color: #0056b3;
+    color: #fff;
+  }
   }
