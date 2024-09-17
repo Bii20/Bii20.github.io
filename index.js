@@ -11,6 +11,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
       document.querySelector(this.getAttribute('href')).scrollIntoView({
         behavior: 'smooth'
       });
+      window.location.href="https://github.com/Bii20";
     });
   });
   
