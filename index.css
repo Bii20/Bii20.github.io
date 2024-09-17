@@ -186,12 +186,13 @@
   /* Skills Section */
   .skills {
     background-color: #f0f4f8;
-    padding: 50px 0;
+    padding: 50px 50px;
   }
   
   .skills-grid {
     display: flex;
     justify-content: space-between;
+    gap: 0;
   }
   
   .skill-category h3 {
