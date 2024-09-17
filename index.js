@@ -1,6 +1,7 @@
 // scripts.js
 document.querySelector('.cta-btn').addEventListener('click', () => {
-    alert('Welcome to my projects!');
+    //alert('Welcome to my projects!');
+    window.location.href("https://github.com/Bii20")
   });
   // scripts.js
 
