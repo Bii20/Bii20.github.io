@@ -283,15 +283,17 @@
 
     .hero-content, .hero-img {
       max-width: 100%;
+      height: auto;
     }
 
     .hero h1 {
       font-size: 2.5rem;
     }
     .hero-img{
-      height:50% ;
+      height:50vh ;
       border-radius: 50%;
       padding-bottom: 5%;
+      object-fit: cover;
     }
     .about-content {
       flex-direction: column;
