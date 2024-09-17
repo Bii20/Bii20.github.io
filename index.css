@@ -181,6 +181,7 @@
     /* About text styling */
     .about-text {
         flex: 1;
+        padding-left: 40px;
     }
 
     /* About photo styling */
