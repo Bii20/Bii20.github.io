@@ -192,6 +192,7 @@
   .skills-grid {
     display: flex;
     justify-content: space-between;
+    text-align: center;
     gap: 0;
   }
   
@@ -211,9 +212,9 @@
   
   /* Career Journey Section */
   .career-journey {
-    text-align: center;
+    text-align: left;
     background-color: #fff;
-    padding: 50px 0;
+    padding: 150px 0;
   }
   
   .timeline-item {
