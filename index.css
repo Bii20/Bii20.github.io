@@ -61,7 +61,7 @@
   }
 
   .hero-img img {
-    width: 50%;
+    width: auto;
     border-radius: 10px;
   }
 
@@ -292,7 +292,7 @@
     }
     .hero-img{
       height:50vh ;
-      width: 50%;
+      width: 100%;
       border-radius: 50%;
       padding-bottom: 5%;
       object-fit: cover;
