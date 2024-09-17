@@ -26,7 +26,6 @@
 
   .hero h1 {
     font-size: 3rem;
-    flex: 1;
     margin-bottom: 20px;
   }
 
@@ -56,14 +55,13 @@
   .hero-img {
     
     display: flex;
-    flex: 1;
     align-items: center;
     justify-content: center;
-    height: auto;
+    width: 50%;
   }
 
   .hero-img img {
-    width: 50%;
+    
     border-radius: 10px;
   }
 
