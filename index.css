@@ -165,6 +165,7 @@
 .about-me {
     background-color: #fff;
     padding: 50px 0;
+    
   }
   
   .about-content {
@@ -175,6 +176,8 @@
   
   .about-text {
     max-width: 60%;
+    padding-left: 5%;
+    
   }
   
   .about-photo img {
@@ -193,7 +196,7 @@
     display: flex;
     justify-content: space-between;
     text-align: left
-    gap: 0;
+    
   }
   
   .skill-category h3 {
