@@ -60,7 +60,7 @@
   }
 
   .hero-img img {
-    height: fit-content;
+    width: 50%;
     border-radius: 10px;
   }
 
