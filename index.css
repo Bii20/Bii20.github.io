@@ -57,11 +57,10 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 80vh;
   }
 
   .hero-img img {
-    
+    height: fit-content;
     border-radius: 10px;
   }
 
