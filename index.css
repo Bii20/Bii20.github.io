@@ -163,118 +163,7 @@
   color: #fff;
 }
   
-/* About Me Section */
-.about-me {
-    background-color: #fff;
-    padding: 50px 0;
-    
-  }
-  
-      /* Flexbox container for the about-content */
-      .about-content {
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-        align-items: center;
-        gap: 20px;
-    }
-
-    /* About text styling */
-    .about-text {
-        flex: 1;
-        padding-left: 40px;
-    }
-
-    /* About photo styling */
-    .about-photo {
-        flex: 1;
-        display: flex;
-        justify-content: center;
-    }
-
-    /* Image responsive styling */
-    .about-photo img {
-        max-width: 100%;
-        height: auto;
-        border-radius: 50%;
-    }
-
-  /* Skills Section */
-  .skills {
-    background-color: #f0f4f8;
-    padding: 50px 50px;
-  }
-  
-  .skills-grid {
-    display: flex;
-    justify-content: space-between;
-    text-align: left
-    
-  }
-  
-  .skill-category h3 {
-    font-size: 1.5rem;
-    margin-bottom: 10px;
-  }
-  
-  .skill-category ul {
-    list-style-type: none;
-    padding: 0;
-  }
-  
-  .skill-category li {
-    margin-bottom: 10px;
-  }
-  
-  /* Career Journey Section */
-  .career-journey {
-    text-align: left;
-    background-color: #fff;
-    padding: 150px 150px;
-  }
-  
-  .timeline-item {
-    margin-bottom: 20px;
-  }
-  
-  .timeline-item h4 {
-    font-size: 1.25rem;
-    margin-bottom: 20px;
-  }
-  
-  .timeline-item span {
-    color: #888;
-    font-size: 0.9rem;
-  }
-  
-  .timeline-item p {
-    margin-top: 5px;
-  }
-  
-  /* Call to Action Section */
-  .cta {
-    background-color: #007bff;
-    text-align: center;
-    padding: 30px 0;
-  }
-  
-  .cta-btn {
-    display: inline-block;
-    background-color: #fff;
-    color: #007bff;
-    padding: 10px 20px;
-    margin: 10px;
-    text-transform: uppercase;
-    border-radius: 5px;
-    font-weight: bold;
-    text-decoration: none;
-    transition: background-color 0.3s ease;
-  }
-  
-  .cta-btn:hover {
-    background-color: #0056b3;
-    color: #fff;
-  }
+ 
    /* Responsive Design */
    @media (max-width: 768px) {
     .hero {
@@ -308,7 +197,7 @@
       padding-left: 0;
       text-align: center;
   }
-
+  
   .about-photo {
       margin-top: 20px;
   }
