@@ -69,7 +69,8 @@
     /* About Me Section */
 .about-me {
   background-color: #fff;
-  padding: 50px 50px;
+  padding: 50px;
+  padding-left: 50px;
 }
 
 .about-content {
