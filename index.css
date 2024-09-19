@@ -204,6 +204,10 @@
       margin-top: 20px;
   }
   .hero-img img {
-    width: 300px;
+   /* width: 300px;*/
+  }
+  .about-text{
+    display: flex;
+    text-align: center;
   }
 }
