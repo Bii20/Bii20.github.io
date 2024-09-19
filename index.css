@@ -203,8 +203,8 @@
   .about-photo {
       margin-top: 20px;
   }
-  .hero-img img {
-    width: 600px;
+  .hero-img {
+    width: 300px;
   }
   .about-text{
     display: flex;
